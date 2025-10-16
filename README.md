@@ -1,1 +1,1 @@
-Microsoft Copilot for HUAWEI harmony os.
+### Microsoft Copilot PWA application Built for HUAWEI harmony os.
