@@ -5,13 +5,13 @@
         "name": "default",
         "type": "HarmonyOS",
         "material": {
-          "certpath": "C:\\Users\\kkcha\\.ohos\\config\\default_Wenview_test_QFVVHS7fBEZgRscj-AbPpuy0ZyT_o-SAWd16f-DUVUw=.cer",
+          "certpath": "/Users/linyi/.ohos/config/default_Wenview_test_MVuAyYTbvFurB_UzXS4Gl0_H7dkPxYpH1lRCuHmKiHs=.cer",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001AC88A8BA913BEE2225E86FAA9888587B6E8ADEE5025D967B462571363D4129DE985033DDA78BE",
-          "profile": "C:\\Users\\kkcha\\.ohos\\config\\default_Wenview_test_QFVVHS7fBEZgRscj-AbPpuy0ZyT_o-SAWd16f-DUVUw=.p7b",
+          "keyPassword": "0000001BA0D3D8C1022F81BB5B00A41285C70A6DC8C641413026B6FC1766A2CCA27E2FDE13AD29D43E0CB3",
+          "profile": "/Users/linyi/.ohos/config/default_Wenview_test_MVuAyYTbvFurB_UzXS4Gl0_H7dkPxYpH1lRCuHmKiHs=.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "C:\\Users\\kkcha\\.ohos\\config\\default_Wenview_test_QFVVHS7fBEZgRscj-AbPpuy0ZyT_o-SAWd16f-DUVUw=.p12",
-          "storePassword": "0000001AB58871D97319502F344F432CC6FF92AFA5E26BF002853451270A9CE813977F865FD0547D06B1"
+          "storeFile": "/Users/linyi/.ohos/config/default_Wenview_test_MVuAyYTbvFurB_UzXS4Gl0_H7dkPxYpH1lRCuHmKiHs=.p12",
+          "storePassword": "0000001BF47093966908F0DE312AA92F815C1FD95BFCAF5BF83D24027B0EAE8434A186CD4241040886C45B"
         }
       }
     ],
